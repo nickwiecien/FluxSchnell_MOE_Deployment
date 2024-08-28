@@ -1,6 +1,6 @@
 # FLUX Schnell - Managed Online Endpoint Deployment (Azure ML)
 
-Repository contains sample code demonstrating how to deploy [Black Forest Lab's FLUX schnell model](https://huggingface.co/black-forest-labs/FLUX.1-schnell) to a GPU-backed Managed Online Endpoint in Azure ML.
+Repository contains sample code demonstrating how to deploy [Black Forest Lab's FLUX schnell model](https://huggingface.co/black-forest-labs/FLUX.1-schnell) to a GPU-backed [Managed Online Endpoint](https://learn.microsoft.com/en-us/azure/machine-learning/concept-endpoints-online?view=azureml-api-2) in Azure ML.
 
 ### Prerequisites
 - Access to an Azure Machine Learning workspace with the ability to deploy managed online endpoints
